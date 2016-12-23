@@ -3,6 +3,7 @@
 
 .navbar {
   margin-bottom: 0;
+
 }
 
 /* CUSTOMIZED CAROUSEL
@@ -47,6 +48,7 @@
 
 .marketing {
   margin: 60px auto;
+
 }
 
 .marketing .col-md-4 {
@@ -74,6 +76,8 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 160px;
+/*background-image: url("forest.jpg");*/
+
 }
 
 .footer,
